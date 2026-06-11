@@ -1,22 +1,13 @@
 # ⏱ Time Timer
 
 깔끔하고 기능이 풍부한 타임 타이머 웹앱입니다.  
-GitHub Pages에서 바로 배포 가능한 단일 HTML 파일입니다.
-
-## 🚀 GitHub Pages 배포 방법
-
-1. 이 저장소를 Fork 하거나 새 저장소를 만드세요
-2. `index.html` 파일을 저장소 루트에 업로드
-3. `Settings` → `Pages` → `Branch: main / root` 설정
-4. 잠시 후 `https://{username}.github.io/{repo-name}` 으로 접속
-
 ## ✨ 기능
 
 ### 🎯 타이머
 - 시/분/초 직접 입력
 - 빠른 설정 버튼 (1분, 5분, 10분, 15분, 25분, 30분, 45분, 1시간)
 - 클릭 또는 버튼으로 시작/정지
-- 랩 기록 기능
+- 1분 추가 기능
 
 ### 🎨 디자인
 - **7가지 프리셋**: Default, Minimal, Ocean, Forest, Sunset, Aurora, Chalk
@@ -36,6 +27,7 @@ GitHub Pages에서 바로 배포 가능한 단일 HTML 파일입니다.
 - 전체화면 모드
 - 완전한 반응형 (PC + 모바일)
 - 모바일에서 섹션 접기/펼치기
+- 유튜브 음악 재생
 
 ## ⌨️ 키보드 단축키 (PC)
 
@@ -43,6 +35,6 @@ GitHub Pages에서 바로 배포 가능한 단일 HTML 파일입니다.
 |---|---|
 | `Space` | 시작 / 일시정지 |
 | `R` | 리셋 |
-| `L` | 랩 추가 |
+| `L` | 1분 추가 |
 | `F` | 전체화면 전환 |
 | `M` | 음소거 토글 |
